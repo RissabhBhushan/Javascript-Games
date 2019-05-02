@@ -1,0 +1,44 @@
+body {
+    background: linear-gradient(to right, #fffdcd, #fffdc2 15%,#d7f0a2 15%,#d7f0a2 85%,#fffdc2 85%);
+}
+
+h1 {
+    position: absolute;
+    padding: 0px 100px;
+    font-size: 50px;
+    left: 50%;
+    margin-left: -225px;
+    color: darkgreen;
+    background: lightgreen;
+    padding: 20px 20px;
+}
+
+.game-link {
+    position: absolute;
+    height: 50px;
+    top: 50%;
+    left: 50%;
+    margin-left: -150px;
+    margin-top: -25px;    
+    font-size: 40px;
+    color: white;
+}
+
+#simon-game {   
+    color: white;
+    text-decoration: none;
+}
+
+#tictactoe-game {
+    color: white;
+    text-decoration: none;
+}
+
+#rockpaperscissor-game {
+    color: white;
+    text-decoration: none;
+}
+
+div > hr {
+    color: white;
+}
